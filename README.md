@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jay.
 - 👀 I’m interested in Android development.
-- 🌱 I’m currently a senior in high school, planning to graduate here in the next year or so.
+- 🌱 I’m a high school dropout, aiming to recover my credits and graduate.
 - 📫 How to reach me: my Discord tag is "聖 [Kiyo]#6453". 
 
 <!---
