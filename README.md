@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay.
-- 👀 I’m interested in Android development.
+- 👀 I’m interested in Android development and the Hackintosh scene.
 - 🌱 I’m a high school dropout, aiming to recover my credits and graduate.
 - 📫 How to reach me: my Discord tag is "聖 [Kiyo]#6453". 
 
