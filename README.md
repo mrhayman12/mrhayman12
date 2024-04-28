@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Jay.
-- 👀 I’m interested in Android development and the Hackintosh scene.
-- 🌱 I’m a high school dropout, aiming to recover my credits and graduate.
-- 📫 How to reach me: my Discord tag is "聖 [Kiyo]#6453". 
+- 👀 I’m interested in Android development, malware decompilation and the Hackintosh scene.
+- 🌱 I’m a high school dropout, aiming to recover my credits.
+- 📫 How to reach me: my Discord tag is @sf64. 
 
 <!---
-mrhayman12/mrhayman12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+starfoxdot64/starfoxdot64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
